@@ -6,7 +6,7 @@ import reactLogo from '../../assets/react.svg'
 
 function FirstPage() {
     const [count, setCount] = useState(0)
-  
+  console.log("first");
     return (
       <div className="App">
         <div>
